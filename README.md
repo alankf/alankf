@@ -20,7 +20,7 @@
 ### ℹ️ Informações:
 
 - 🔭 Estagiando na NDD Tech
-- 📘 Atualmente estudando a linguagem C# e a plataforma .NET 
+- 📘 Atualmente estudando Typescript
 
 &nbsp;
 
