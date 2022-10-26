@@ -19,8 +19,8 @@
 
 ### ℹ️ Informações:
 
-- 🔭 Estagiando na NDD Tech
-- 📘 Atualmente estudando Typescript
+- 🔭 Analista Desenvolvedor Júnior | NDD Tech 
+- 📘 Atualmente estudando C++
 
 &nbsp;
 
