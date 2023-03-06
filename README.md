@@ -2,7 +2,7 @@
 
 ### <p align="center"> Seja bem vindo ao meu perfil! ;) </p>
 
-*Natural de Lages/SC, 21 anos, engajado no mundo da tecnologia desde criança, tendo como primeiro contato um clássico da positivo lá por meados de 2007 e oficialmente no mundo da programação desde 2021. Busco hoje mais do que nunca, contribuir com minhas habilidades e aperfeiçoar cada vez mais meus conhecimentos na área de desenvolvimento de software.*
+*Natural de Lages/SC, engajado no mundo da tecnologia desde criança, tendo como primeiro contato um clássico da positivo lá por meados de 2007 e oficialmente no mundo da programação desde 2021. Busco hoje mais do que nunca, contribuir com minhas habilidades e aperfeiçoar cada vez mais meus conhecimentos na área de desenvolvimento de software.*
 
 #
 
